@@ -27,4 +27,4 @@ I settled on the Random Forest method because it had the lowest Root Mean Square
  
  Finally, **Cross-validation** was helped in testing and validating the model.
  
-  > The code will be improved time to time and OOP will be used for the code
+  > The code will be improved time to time and OOP will be used for the code. Also, run it on Google Colabs for time saving
