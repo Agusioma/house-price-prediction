@@ -25,4 +25,4 @@ I settled on the Random Forest method because it had the lowest Root Mean Square
 
 *Grid Search Optimization* was used to optimize the model in which various hyperparameters were used.
  
-  > The code will be improved time to time and OOP will be used for the code. Also, run it on Google Colabs for time saving. You can also uncomment relevant lines.
+  > The code will be improved time to time and OOP will be used for the code. You can also uncomment relevant lines.
