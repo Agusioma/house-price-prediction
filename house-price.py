@@ -277,3 +277,5 @@ final_predictions = final_model.predict(X_test_prepared)
 final_mse = mean_squared_error(y_test, final_predictions)
 final_rmse = np.sqrt(final_mse)
 
+pred_frame = pd.DataFrame(final_predictions)
+print(pred_frame)
